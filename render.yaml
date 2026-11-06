@@ -3,7 +3,7 @@ services:
     name: hotel-distribuido
     runtime: node
     plan: free
-    region: ohio # mesma região do banco no Neon (AWS us-east-2)
+    region: oregon # região do serviço já criado no Render (não pode ser alterada depois)
     buildCommand: npm ci --include=dev && npm run build
     startCommand: npm start
     healthCheckPath: /api/health
