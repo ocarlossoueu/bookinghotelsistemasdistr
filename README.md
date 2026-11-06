@@ -4,6 +4,10 @@ Aplicação web (mobile-first) de reservas para um hotel de 12 apartamentos, fei
 **Mini-Ideathon de Aplicações Distribuídas** (Sistemas Distribuídos — DISC.1764).
 Vários celulares usam o app ao mesmo tempo e disputam os mesmos quartos em tempo real.
 
+**🔗 Acesse:** https://hotel-distribuido.onrender.com
+
+<img src="docs/qrcode.png" width="200" alt="QR code do app">
+
 **Stack:** TypeScript · Node.js (Express + Socket.IO) · React + Vite · Tailwind CSS · PostgreSQL (Neon) · Render
 
 ## O hotel
