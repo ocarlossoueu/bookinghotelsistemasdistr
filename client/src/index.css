@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-50: #ecfdf5;
+  --color-brand-600: #0f766e;
+  --color-brand-700: #115e59;
+  --color-brand-900: #0f3d3e;
+}
+
+html, body, #root { height: 100%; }
+body { -webkit-tap-highlight-color: transparent; }
+input, select, button { font-size: 16px; } /* evita zoom no iOS */
