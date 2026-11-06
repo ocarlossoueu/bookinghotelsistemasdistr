@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/api.ts","./src/hooks.ts","./src/lamport.ts","./src/main.tsx","./src/replica.ts","./src/types.ts","./src/components/ui.tsx","./src/pages/Lab.tsx","./src/pages/Login.tsx","./src/pages/Mine.tsx","./src/pages/Network.tsx","./src/pages/Reception.tsx","./src/pages/Rooms.tsx","./vite.config.ts"],"version":"5.9.3"}
