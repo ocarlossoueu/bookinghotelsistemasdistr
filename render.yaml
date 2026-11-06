@@ -3,7 +3,7 @@ services:
     name: hotel-distribuido
     runtime: node
     plan: free
-    region: oregon
+    region: ohio # mesma região do banco no Neon (AWS us-east-2)
     buildCommand: npm ci --include=dev && npm run build
     startCommand: npm start
     healthCheckPath: /api/health
